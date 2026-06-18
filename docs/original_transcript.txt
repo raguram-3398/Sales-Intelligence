@@ -1,0 +1,35 @@
+Sarah: Hi, is this Michael Chen? This is Sarah from TechFlow CRM.
+Michael: Yes, speaking. Thanks for calling Sarah, I've been expecting you.
+Sarah: Great. Before we dive in, just to confirm — the best email to reach you is michael.chen@logisticspro.com?
+Michael: That's correct. And you can copy our operations manager Jennifer Walsh at jennifer.walsh@logisticspro.com on anything you send over.
+Sarah: Perfect. I also have your direct line as 415-555-7823 — is that still the best number?
+Michael: That works, though my mobile is better for follow-ups: 628-555-4491.
+Sarah: Got it. So Michael, I did some research on LogisticsPro before this call. Looks like you're running a team of about thirty people across three warehouses. Is that right?
+Michael: Close — we're at thirty-four now. We added a third location in Sacramento last quarter. Robert Patel is managing that site, he'd be part of this evaluation too.
+Sarah: Understood. So walk me through your current setup. What are you using to manage your sales pipeline today?
+Michael: Honestly, it's embarrassing. We're still on spreadsheets for most of it. We tried Salesforce about two years ago but it was too complex and too expensive for our size. We cancelled after six months and went back to Excel. Our reps hate it but at least they know how to use it.
+Sarah: That's a really common story, especially for teams between twenty and fifty people. Salesforce is built for enterprise and the pricing reflects that. What does your current Salesforce contract cost you when you cancelled?
+Michael: We were paying around $4,200 a month for fifteen licenses. Way too much for what we actually used.
+Sarah: Right, so $50,400 a year for a system your team wasn't fully adopting. That's a painful number. What's the main thing that broke down — was it onboarding, the interface, the customisation?
+Michael: All three honestly. Onboarding took eight weeks. Our reps couldn't figure out the custom fields without IT involved every time. And the reporting was so locked down that our CEO, David Park, had to request reports from the admin instead of just pulling them himself.
+Sarah: David Park is your CEO? Does he get involved in tool evaluations like this?
+Michael: He does for anything over $5,000 a year. He's been burned before by shelfware so he's cautious. His email is david.park@logisticspro.com if you need to include him.
+Sarah: I'll make note of that. So let's talk about what TechFlow looks like for a team your size. For thirty-four users you're looking at our Growth plan, which runs $2,800 a month. That's a $16,800 annual saving versus what you were paying Salesforce, and that's before you factor in the productivity gains.
+Michael: $2,800 is better than I expected honestly. Is that locked or does it go up?
+Sarah: That rate is locked for twenty-four months. After that it renews at the prevailing rate, but historically our increases have been under five percent annually. And just to be transparent — your card on file for the deposit would be charged $2,800 for month one upfront. Do you have a corporate card ready or do you go through accounts payable?
+Michael: We'd go through accounts payable. Jennifer Walsh handles that — jennifer.walsh@logisticspro.com. She'll need a formal invoice and our vendor form filled out. Our accounts card ends in 4532 1234 5678 9010 but she prefers ACH for anything over $1,000.
+Sarah: No problem, we support ACH. I'll make sure the invoice is addressed to Jennifer. Now, onboarding — I know that was a pain point with Salesforce. Our implementation is five to seven business days for a team your size. We migrate your existing data, configure your custom fields, and run two live training sessions with your reps. Most teams are self-sufficient by day ten.
+Michael: That's significantly better than eight weeks. What about our Sacramento site — Robert Patel's team? They're remote and three of his reps are part-time.
+Sarah: Part-time users are included in your license count. Robert's team would join the same training sessions via Zoom, and we assign a dedicated account manager for the first ninety days. You can reach our support team at support@techflow.io twenty-four seven after that.
+Michael: What about integrations? We use QuickBooks for accounting and a custom dispatch tool our IT team built. I can get you our IT lead — his name is Kevin Sharma, kevin.sharma@logisticspro.com — to discuss the technical side.
+Sarah: Kevin would be a great person to loop in. We have a native QuickBooks integration included in your plan at no extra cost. For your custom dispatch tool, we'd need to look at the API — our standard connector covers REST APIs, and if Kevin can share the documentation I can confirm compatibility before your next call. Custom API development beyond our standard connectors is available at $150 an hour, but most teams don't need it.
+Michael: $150 an hour is reasonable if it's only a few hours. What's the realistic cost there?
+Sarah: For a well-documented REST API, typically three to five hours. So worst case $750 — and that's a one-time cost, not recurring. I can include a fixed-price estimate in the proposal so there are no surprises. Speaking of which — I'd like to get a formal proposal to you and David by end of week. Should I send that to michael.chen@logisticspro.com and david.park@logisticspro.com?
+Michael: Yes. And include Robert Patel — robert.patel@logisticspro.com. He'll have opinions.
+Sarah: Done. One thing I want to flag before I let you go — we do a security review as part of onboarding since you're handling freight data. We're SOC 2 Type II certified, all data encrypted at rest and in transit. I can send our security documentation to Kevin Sharma directly. Is kevin.sharma@logisticspro.com the right address?
+Michael: That's correct. He's thorough — expect questions. His direct number is 510-555-2967 if you need to reach him before the next call.
+Sarah: Perfect. So next steps — I'll send the proposal to Michael, David, and Robert by Friday. Kevin gets the security docs separately. And I'd like to schedule a technical call with you and Kevin early next week to go through the dispatch integration. Does Monday or Tuesday work?
+Michael: Tuesday is better. I'm in Sacramento Monday with Robert.
+Sarah: Tuesday it is. I'll send a calendar invite to michael.chen@logisticspro.com and kevin.sharma@logisticspro.com. Michael, I think this is a strong fit — the pricing works, the timeline is realistic, and the integration questions are solvable. I'm looking forward to Tuesday.
+Michael: Same here Sarah. This has been the most straightforward vendor call I've had in a while honestly.
+Sarah: That's what we aim for. Talk Tuesday.
