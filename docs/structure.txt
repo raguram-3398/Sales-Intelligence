@@ -1,0 +1,52 @@
+
+
+sales-intelligence/
+│
+├── pyproject.toml
+├── README.md
+├── .gitignore
+├── .env
+├── .env.example
+├── .dockerignore
+├── dockercompose.yml
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+│
+├── streamlit_app.py
+├── Dockerfile
+├── requirements.txt
+├── docs/
+│
+├── tests/
+│   ├── test_routes.py
+│   ├── test_analysis.py
+│   ├── test_cost_tracker.py
+│   ├── test_pii_scrubber.py
+│   └── test_transcription.py
+│
+└── src/
+    └── sales_intelligence/
+        │
+        ├── __init__.py
+        ├── main.py
+        │
+        ├── api/
+        │   ├── __init__.py
+        │   └── routes.py
+        │
+        ├── services/
+        │   ├── __init__.py
+        │   ├── analysis.py
+        │   ├── transcription.py
+        │   ├── pii_scrubber.py
+        │   └── cost_tracker.py
+        │
+        ├── models/
+        │   ├── __init__.py
+        │   └── schemas.py
+        │
+        └── utils/
+            ├── __init__.py
+            ├── logger.py
+            └── exceptions.py
