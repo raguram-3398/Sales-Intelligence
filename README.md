@@ -182,7 +182,7 @@ The raw transcript never reaches the logger. The logger receives only: `request_
 | 12 | Dockerized — multi-stage build, `docker compose up` starts both services | ✅ |
 | 13 | GitHub Actions CI — ruff + black + pytest on every push to master | ✅ |
 | 14 | Deployed to Hugging Face Spaces — live URL in README | ✅ |
-| 15 | README written on ship day with real latency numbers, cost per request, PII policy, architecture diagram | ✅ |
+| 15 | README with real latency numbers, cost per request, PII policy, architecture diagram | ✅ |
 | 16 | Whisper low-confidence handling — consecutive repeated word heuristic flags low-confidence transcripts before Claude analysis, surfaced in Streamlit UI | ✅ |
 
 ---

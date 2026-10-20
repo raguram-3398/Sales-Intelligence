@@ -9,8 +9,11 @@ env/
 
 # Python cache
 __pycache__/
+**/__pycache__
 *.pyc
+**/*.pyc
 *.pyo
+**/*.pyo
 .mypy_cache/
 .ruff_cache/
 
@@ -31,6 +34,7 @@ htmlcov/
 
 # Logs
 *.log
+**/*.log
 
 # IDEs
 .vscode/
@@ -38,7 +42,9 @@ htmlcov/
 
 # OS files
 .DS_Store
+**/.DS_Store
 Thumbs.db
+**/Thumbs.db
 
 # For smaller image size
 README.md
