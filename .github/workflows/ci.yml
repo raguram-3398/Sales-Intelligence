@@ -29,10 +29,10 @@ jobs:
           pip install -e .
       
       - name: Lint with ruff
-        run: ruff check . --fix --ignore E501
+        run: ruff check . --ignore E501
 
       - name: Format check with black
-        run: black .
+        run: black --check .
 
       - name: Run tests
         run: pytest tests/ -v --tb=short
