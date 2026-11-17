@@ -164,29 +164,6 @@ The raw transcript never reaches the logger. The logger receives only: `request_
 
 ---
 
-## Production Bar
-
-| # | Requirement | Status |
-|---|---|---|
-| 1 | Async FastAPI — rate limiting (10 req/min via slowapi), Pydantic validation, `/api/v1/` versioning | ✅ |
-| 2 | Structured output with error-fed retry — never crashes on malformed JSON | ✅ |
-| 3 | Prompt versioning — `PROMPT_REGISTRY` with `v1` baseline regression test | ✅ |
-| 4 | Context window budgeting — character-estimate trimmer at 150K token budget | ✅ |
-| 5 | PII scrubber — emails, phones, card numbers, financial amounts scrubbed before Claude and before logging | ✅ |
-| 6 | Input sanitisation and prompt injection mitigation documented in README | ✅ |
-| 7 | Timeout on every external call — Whisper (60s) and Claude (60s), both tested explicitly | ✅ |
-| 8 | Cost tracking per request — logged with `request_id` on every Whisper and Claude call | ✅ |
-| 9 | Daily spend alert — warning logged once when cumulative spend crosses $1.00 | ✅ |
-| 10 | Pytest — 35 tests passing including retry, PII, injection, cost, and timeout tests | ✅ |
-| 11 | Streaming to Streamlit UI — token-by-token display with partial JSON progressive rendering | ✅ |
-| 12 | Dockerized — multi-stage build, `docker compose up` starts both services | ✅ |
-| 13 | GitHub Actions CI — ruff + black + pytest on every push to master | ✅ |
-| 14 | Deployed to Hugging Face Spaces — live URL in README | ✅ |
-| 15 | README with real latency numbers, cost per request, PII policy, architecture diagram | ✅ |
-| 16 | Whisper low-confidence handling — consecutive repeated word heuristic flags low-confidence transcripts before Claude analysis, surfaced in Streamlit UI | ✅ |
-
----
-
 ## What I Did Not Build and Why
 
 **1. Anthropic token counting API call before each Claude request.**
